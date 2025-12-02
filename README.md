@@ -1,4 +1,4 @@
-## This project named "Sky Adventure" has been prepared for the CSE423: Computer Graphics course.
+This project named "Sky Adventure" has been prepared for the CSE423: Computer Graphics course.
 
 ## Functionalities
 The player controls a plane using arrow keys to move and mouse clicks to adjust speed while avoiding obstacles and collecting rewards. Initially, the plane's health is set to 100 HP at the start of the game. The goal is to survive, score points, and complete adventure levels before health runs out. Here's how health decreases:
