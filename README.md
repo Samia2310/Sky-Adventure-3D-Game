@@ -55,6 +55,10 @@ The game features a third-person perspective, with the camera positioned behind 
 ## Game Over
 The "Game Over" feature is triggered when the plane's health drops to zero, bringing the flight to a decisive end. When this happens, all player controls become unresponsive and the plane stops moving forward. The screen then prominently displays a "GAME OVER" message, along with the player's final score, effectively concluding the current playthrough.
 
+## Contributors
+Samia Tabassum Chowdhury
+Rafi Ahammed Khan
+
 
 https://github.com/user-attachments/assets/dbafa797-75d6-4707-9bb2-8acfa3e6ec83
 
